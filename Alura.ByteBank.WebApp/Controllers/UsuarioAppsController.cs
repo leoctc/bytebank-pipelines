@@ -28,7 +28,7 @@ namespace Alura.ByteBank.WebApp.Controllers
         public ActionResult Details(int id)
         {
             if (id == null)
-            {
+            { 
                 return NotFound();
             }
 
