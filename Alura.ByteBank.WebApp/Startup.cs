@@ -21,7 +21,7 @@ using System.Threading.Tasks;
 
 namespace Alura.ByteBank.WebApp
 {
-    public class Startup
+     public class Startup
     {
         public Startup(IConfiguration configuration)
         {
